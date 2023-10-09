@@ -49,6 +49,8 @@ In order to run this project, the following steps should be taken
 7. Install Appium server `npm i --location=global appium`
 8. Install Java JDK - https://www.guru99.com/install-java.html
 9. Install Android SDK - https://developer.android.com/tools/sdkmanager
+10. Install on Android device "Appium settings" app
+11. Connect your Android device to the machine
 
 ## Future development
 
