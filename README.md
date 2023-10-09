@@ -20,6 +20,9 @@ This project uses RobotFramework + Appium for both UI and API tests for connecte
 **Resources/global_keywords.robot** - Reusable keywords serving general purposes
 **Resources/conf_variables.robot** - Test configuration holding test data and endpoints
 
+**Report/API_test_report.html** - Successful run report example for API tests
+**Report/UI_test_report.html** - Successful run report example of UI tests
+
 ## Test execution commands
 Launch Appium server on your machine
 `appium --base-path /wd/hub`
